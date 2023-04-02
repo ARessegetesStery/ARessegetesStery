@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARessegetesStery&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
@@ -66,5 +66,5 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2023 04:21:33 UTC
+ Last Updated on 02/04/2023 04:21:05 UTC
 <!--END_SECTION:waka-->
