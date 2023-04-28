@@ -3,9 +3,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARessegetesStery&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,16 +34,21 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSV                      4 mins              █████████████████████████   100.00 % 
+C++                      25 mins             ████████████████░░░░░░░░░   63.87 % 
+CSV                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+CMake                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+volrend                  32 mins             █████████████████████░░░░   82.89 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -59,5 +64,5 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2023 07:38:56 UTC
+ Last Updated on 28/04/2023 04:21:58 UTC
 <!--END_SECTION:waka-->
