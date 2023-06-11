@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARessegetesStery&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -42,7 +42,6 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  11 hrs 10 mins      █████████████████████████   100.00 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
 h3                       5 hrs 58 mins       █████████████░░░░░░░░░░░░   53.43 % 
@@ -69,5 +68,5 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2023 04:20:40 UTC
+ Last Updated on 11/06/2023 04:20:54 UTC
 <!--END_SECTION:waka-->
