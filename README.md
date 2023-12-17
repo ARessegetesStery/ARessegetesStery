@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARessegetesStery&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -34,20 +34,17 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-TeX                      8 hrs 28 mins       █████████████████████████   99.90 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-LaTeX Style File         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TeX                      9 hrs 40 mins       █████████████████████████   99.96 % 
+LaTeX Style File         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MATH593-Notes            8 hrs 28 mins       █████████████████████████   99.94 % 
-p4-zoo                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+MATH593-Notes            9 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 28 mins       █████████████████████████   99.94 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -63,5 +60,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2023 04:22:06 UTC
+ Last Updated on 17/12/2023 04:21:52 UTC
 <!--END_SECTION:waka-->
