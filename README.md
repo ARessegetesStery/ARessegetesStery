@@ -34,17 +34,16 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-TeX                      2 hrs 13 mins       █████████████████████████   99.89 % 
-LaTeX Style File         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MATH437-Notes            2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -60,5 +59,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2024 04:22:12 UTC
+ Last Updated on 04/01/2024 04:22:22 UTC
 <!--END_SECTION:waka-->
