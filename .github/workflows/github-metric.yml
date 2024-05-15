@@ -22,6 +22,11 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_languages: no
+          plugin_languages_ignored: >-
+            html, css, less, dockerfile, qmake, lex, cmake, shaderlab
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
